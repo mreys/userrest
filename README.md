@@ -1,2 +1,2 @@
 # userrest
-bootspring equivalent of the nodejs user rest api
+It's a mess, don't pull!!
